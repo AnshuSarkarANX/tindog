@@ -1,5 +1,14 @@
 
+/*font-family: 'Montserrat', sans-serif;
+font-family: 'Ubuntu', sans-serif;*/
+.heading{
+  font-family:'Montserrat',sans-serif;
+  font-weight: 900;
+  size:3rem;
+  line-height: 1.5;
+}
 /********Id selecters*********/
+
 #title{
   background-color: #ff4c68;
 }
