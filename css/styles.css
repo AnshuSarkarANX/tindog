@@ -25,8 +25,14 @@ body{
   color: #fff;
 }
 /* navigation bar */
+.navbar{
+  padding-bottom: 4.5rem;
+}
 .navbar-brand{
   font-family: 'Ubuntu', sans-serif;
   font-size: 2rem;
   font-weight: 700;
+}
+.nav-item{
+  padding: 0 18px;
 }
