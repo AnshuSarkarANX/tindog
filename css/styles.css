@@ -5,9 +5,7 @@ body{
   font-family:"Montserrat";
   font-weight: 400;
 }
-#title{
-  color: #fff;
-}
+
 .heading{
   font-family:'Montserrat',sans-serif;
   font-weight: 900;
@@ -24,4 +22,11 @@ body{
 
 #title{
   background-color: #ff4c68;
+  color: #fff;
+}
+/* navigation bar */
+.navbar-brand{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2rem;
+  font-weight: 700;
 }
