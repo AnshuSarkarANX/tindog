@@ -16,6 +16,23 @@ body{
 {
   padding: 3% 15%;
 }
+.ficons{
+  font-size: 4.7rem;
+  color: salmon;
+  display: inline-block;
+}
+.ficons:hover{
+  color: #ff4c68;
+}
+.ftext{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+}
+.fdes{
+  width: 60%;
+  display: inline-block;
+  color: #8f8f8f;
+}
 
 
 /********Id selecters*********/
@@ -23,6 +40,10 @@ body{
 #title{
   background-color: #ff4c68;
   color: #fff;
+}
+#features{
+  text-align:center;
+  padding: 110px 90px 100px;
 }
 /* navigation bar */
 .navbar{
