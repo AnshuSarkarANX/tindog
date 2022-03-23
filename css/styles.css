@@ -45,3 +45,9 @@ body{
 .dbutton{
   margin: 5% 3% 0;
 }
+/* image property */
+.title-img{
+  width:65%;
+  transform: rotate(23deg);
+
+}
