@@ -5,6 +5,9 @@ body{
   font-family:"Montserrat";
   font-weight: 400;
 }
+#title{
+  color: #fff;
+}
 .heading{
   font-family:'Montserrat',sans-serif;
   font-weight: 900;
