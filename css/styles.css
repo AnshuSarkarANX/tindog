@@ -45,6 +45,19 @@ body{
   text-align:center;
   padding: 110px 90px 100px;
 }
+#testimonials{
+  background-color: salmon;
+  text-align: center;
+  font-family: "Montserrat",sans-serif;
+  font-weight: 600;
+  color: #fff;
+  padding: 7% 14%;
+}
+#press{
+  background-color: salmon;
+  text-align: center;
+  padding: 3%;
+}
 /* navigation bar */
 .navbar{
   padding-bottom: 4.5rem;
@@ -71,4 +84,20 @@ body{
   width:65%;
   transform: rotate(23deg);
 
+}
+.press-img{
+  width: 15%;
+  margin: 15px 10px 30px;
+
+}
+.testimonialstxt{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 700;
+}
+.testimonial-img{
+  border-radius: 100%;
+  width:15%;
+  margin: 10px;
 }
