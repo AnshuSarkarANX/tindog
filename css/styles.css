@@ -51,7 +51,7 @@ body{
   font-family: "Montserrat",sans-serif;
   font-weight: 600;
   color: #fff;
-  padding: 7% 14%;
+
 }
 #press{
   background-color: salmon;
@@ -95,6 +95,7 @@ body{
   font-size: 3rem;
   line-height: 1.5;
   font-weight: 700;
+  padding: 7% 14%;
 }
 .testimonial-img{
   border-radius: 100%;
