@@ -58,6 +58,9 @@ body{
   text-align: center;
   padding: 3%;
 }
+#pricing{
+  padding: 90px;
+}
 /* navigation bar */
 .navbar{
   padding-bottom: 4.5rem;
@@ -101,4 +104,8 @@ body{
   border-radius: 100%;
   width:15%;
   margin: 10px;
+}
+.price-coloumn{
+  padding: 3% 2%;
+   text-align: center;
 }
