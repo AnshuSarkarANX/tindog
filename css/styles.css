@@ -44,13 +44,17 @@ body{
 #features{
   text-align:center;
   padding: 110px 90px 100px;
+  position: relative;
+  z-index: 1;
+  background-color: #fff;
+
 }
 #testimonials{
   background-color: salmon;
   text-align: center;
   font-family: "Montserrat",sans-serif;
   font-weight: 600;
-  color: #fff;
+
 
 }
 #press{
@@ -61,8 +65,12 @@ body{
 #pricing{
   padding: 90px;
 }
-#cta{background-color: #ff4c68;}
-#footer{background-color: #ff4c68;}
+#cta{
+  background-color: #ff4c68;
+}
+#footer{
+  background-color: #ff4c68;
+}
 /* navigation bar */
 .navbar{
   padding-bottom: 4.5rem;
@@ -88,8 +96,9 @@ body{
 .title-img{
   width:65%;
   transform: rotate(23deg);
-
+  position:absolute;
 }
+
 .press-img{
   width: 15%;
   margin: 15px 10px 30px;
