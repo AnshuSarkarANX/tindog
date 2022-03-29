@@ -14,7 +14,7 @@ body{
 }
 .container-fluid
 {
-  padding: 3% 15%;
+  padding: 3% 15% 15%;
 }
 .ficons{
   font-size: 4.7rem;
@@ -34,18 +34,21 @@ body{
   color: #8f8f8f;
 }
 
+.t-img{
+  position: relative;
+}
 
 /********Id selecters*********/
 
 #title{
   background-color: #ff4c68;
   color: #fff;
+
 }
 #features{
   text-align:center;
   padding: 110px 90px 100px;
   position: relative;
-  z-index: 1;
   background-color: #fff;
 
 }
@@ -94,9 +97,10 @@ body{
 }
 /* image property */
 .title-img{
+position: absolute;
   width:65%;
+  right: 30%;
   transform: rotate(23deg);
-  position:absolute;
 }
 
 .press-img{
