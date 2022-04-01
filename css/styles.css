@@ -4,10 +4,22 @@ font-family: 'Ubuntu', sans-serif;*/
 body{
   font-family:"Montserrat";
   font-weight: 400;
+  text-align: center;
+
+}
+.pink-bg{
+  background-color: #ff4c68;
+
+}
+.salmon-bg{
+  background-color: salmon;
+}
+.white-bg{
+  background-color: #fff;
+
 }
 
 .heading{
-  font-family:'Montserrat',sans-serif;
   font-weight: 900;
   size:3rem;
   line-height: 1.5;
@@ -21,11 +33,21 @@ body{
   color: salmon;
   display: inline-block;
 }
+/* title */
+#title{
+  color: #fff;
+}
+
+/* features section */
+#features{
+  padding: 110px 90px 100px;
+  position: relative;
+
+}
 .ficons:hover{
   color: #ff4c68;
 }
 .ftext{
-  font-family: 'Montserrat', sans-serif;
   font-weight: 700;
 }
 .fdes{
@@ -34,9 +56,7 @@ body{
   color: #8f8f8f;
 }
 
-.t-img{
-  position: relative;
-}
+
 /* navigation bar */
 .navbar{
   padding-bottom: 4.5rem;
@@ -50,7 +70,6 @@ body{
   padding: 0 18px;
 }
 .nav-link{
-  font-family: 'Montserrat', sans-serif;
   font-weight: 300;
   font-size: 1.2rem;
 }
@@ -58,21 +77,22 @@ body{
 .dbutton{
   margin: 5% 3% 0;
 }
-/* image property */
+/* iphone image */
 .title-img{
 position: absolute;
   width:65%;
   right: 30%;
   transform: rotate(23deg);
 }
+.t-img{
+  position: relative;
+}
 
-.press-img{
-  width: 15%;
-  margin: 15px 10px 30px;
-
+/* testimonial section */
+#testimonials{
+  font-weight: 600;
 }
 .testimonialstxt{
-  font-family: 'Montserrat', sans-serif;
   font-size: 3rem;
   line-height: 1.5;
   font-weight: 700;
@@ -83,9 +103,21 @@ position: absolute;
   width:15%;
   margin: 10px;
 }
+/* press section */
+#press{
+  padding: 3%;
+}
+.press-img{
+  width: 15%;
+  margin: 15px 10px 30px;
+
+}
+/* prisisng */
+#pricing{
+  padding: 90px;
+}
 .price-coloumn{
   padding: 3% 2%;
-   text-align: center;
 }
  /* download buttonfooter */
  .dfbutton{
@@ -93,7 +125,6 @@ position: absolute;
  }
  /* footer text */
  .footer-text{
-   font-family: 'Montserrat', sans-serif;
    font-weight: 900;
    font-size: 3rem;
    padding: 70px 200px 3px;
@@ -101,7 +132,10 @@ position: absolute;
    color: #fff;
  }
  /* footer icons  */
- .fb-icons .email-icons  .twitter-icons .insta-icons{
+ #footer{
+   margin-bottom: 80px;
+ }
+ .fb-icons,.email-icons ,.twitter-icons,.insta-icons{
    display: inline-block;
    margin: 100px 5px 5px;
   }
@@ -116,47 +150,6 @@ position: absolute;
 }
 .email-icons:hover{
   color:gold;
-}
-
-
-/********Id selecters*********/
-
-#title{
-  background-color: #ff4c68;
-  color: #fff;
-
-}
-#features{
-  text-align:center;
-  padding: 110px 90px 100px;
-  position: relative;
-  background-color: #fff;
-
-}
-#testimonials{
-  background-color: salmon;
-  text-align: center;
-  font-family: "Montserrat",sans-serif;
-  font-weight: 600;
-
-
-}
-#press{
-  background-color: salmon;
-  text-align: center;
-  padding: 3%;
-}
-#pricing{
-  padding: 90px;
-}
-#cta{
-  background-color: #ff4c68;
-  text-align: center;
-}
-#footer{
-  background-color: #fff;
-  text-align: center;
-  margin-bottom: 80px;
 }
 
  /* media  */
