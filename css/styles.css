@@ -101,37 +101,21 @@ position: absolute;
    color: #fff;
  }
  /* footer icons  */
- .fb-icons{
+ .fb-icons .email-icons  .twitter-icons .insta-icons{
    display: inline-block;
    margin: 100px 5px 5px;
   }
- .twitter-icons{
-   display: inline-block;
-    margin: 100px 5px 5px;
- }
- .insta-icons{
-   display: inline-block;
-    margin: 100px 5px 5px;
- }
- .email-icons{
-   display: inline-block;
-    margin: 100px 5px 5px;
- }
 .fb-icons:hover{
   color:teal;
-  display: inline-block;
  }
 .twitter-icons:hover{
   color:dodgerblue;
-  display: inline-block;
 }
 .insta-icons:hover{
   color:salmon;
-  display: inline-block;
 }
 .email-icons:hover{
   color:gold;
-  display: inline-block;
 }
 
 
