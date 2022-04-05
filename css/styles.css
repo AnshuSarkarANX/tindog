@@ -151,6 +151,10 @@ position: absolute;
 .email-icons:hover{
   color:gold;
 }
+.cprt-txt{
+  font-size: .8rem;
+  color: #8f8f8f;
+}
 
  /* media  */
  @media (max-width:1000px) {
