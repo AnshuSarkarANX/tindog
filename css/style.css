@@ -1,0 +1,211 @@
+body {
+  font-family: "Montserrat";
+  font-weight: 400;
+  text-align: center;
+}
+
+.pink-bg {
+  background-color: #ff4c68;
+}
+
+.salmon-bg {
+  background-color: salmon;
+}
+
+.white-bg {
+  background-color: #fff;
+}
+
+.heading {
+  font-weight: 900;
+  size: 3rem;
+  line-height: 1.5;
+}
+
+.container-fluid {
+  padding: 3% 15% 15%;
+}
+
+.ficons {
+  font-size: 4.7rem;
+  color: salmon;
+  display: inline-block;
+}
+
+/* title */
+#title {
+  color: #fff;
+}
+
+/* features section */
+#features {
+  padding: 110px 90px 100px;
+  position: relative;
+}
+
+.ficons:hover {
+  color: #ff4c68;
+}
+
+.ftext {
+  font-weight: 700;
+}
+
+.fdes {
+  width: 60%;
+  display: inline-block;
+  color: #8f8f8f;
+}
+
+/* navigation bar */
+.navbar {
+  padding-bottom: 4.5rem;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-weight: 300;
+  font-size: 1.2rem;
+}
+
+/* download buttons */
+.dbutton {
+  margin: 5% 3% 0;
+}
+
+/* iphone image */
+.title-img {
+  position: absolute;
+  width: 65%;
+  right: 30%;
+  -webkit-transform: rotate(23deg);
+          transform: rotate(23deg);
+}
+
+.t-img {
+  position: relative;
+}
+
+/* testimonial section */
+#testimonials {
+  font-weight: 600;
+}
+
+.testimonialstxt {
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 700;
+  padding: 7% 14%;
+}
+
+.testimonial-img {
+  border-radius: 100%;
+  width: 15%;
+  margin: 10px;
+}
+
+/* press section */
+#press {
+  padding: 3%;
+}
+
+.press-img {
+  width: 15%;
+  margin: 15px 10px 30px;
+}
+
+/* prisisng */
+#pricing {
+  padding: 90px;
+}
+
+.price-coloumn {
+  padding: 3% 2%;
+}
+
+/* download buttonfooter */
+.dfbutton {
+  margin: 2% 1.5% 8%;
+}
+
+/* footer text */
+.footer-text {
+  font-weight: 900;
+  font-size: 3rem;
+  padding: 70px 200px 3px;
+  line-height: 1.5;
+  color: #fff;
+}
+
+/* footer icons  */
+#footer {
+  margin-bottom: 80px;
+}
+
+.fb-icons {
+  display: inline-block;
+  margin: 100px 5px 5px;
+}
+
+.fb-icons:hover {
+  color: teal;
+}
+
+.email-icons {
+  display: inline-block;
+  margin: 100px 5px 5px;
+}
+
+.email-icons:hover {
+  color: gold;
+}
+
+.twitter-icons {
+  display: inline-block;
+  margin: 100px 5px 5px;
+}
+
+.twitter-icons:hover {
+  color: dodgerblue;
+}
+
+.insta-icons {
+  display: inline-block;
+  margin: 100px 5px 5px;
+}
+
+.insta-icons:hover {
+  color: salmon;
+}
+
+.fb-icons:hover {
+  color: teal;
+}
+
+.cprt-txt {
+  font-size: .8rem;
+  color: #8f8f8f;
+}
+
+/* media  */
+@media (max-width: 1000px) {
+  #title {
+    text-align: center;
+  }
+  .title-img {
+    position: static;
+    -webkit-transform: rotate(0);
+            transform: rotate(0);
+    margin-top: 15%;
+  }
+}
+/*# sourceMappingURL=style.css.map */
