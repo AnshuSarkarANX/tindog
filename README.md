@@ -1,5 +1,7 @@
 # TinDog
-<h3 align="left">This is a website made for dogs to find their soulmates. This is basically Tinder for dogs.</h3>
+![Tindog](tindog-website.png)
+
+### This is a website made for dogs to find their soulmates. This is basically Tinder for dogs.
 
 
 <p align="left">
