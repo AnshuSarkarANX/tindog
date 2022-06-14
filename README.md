@@ -15,4 +15,4 @@
 <a href="https://linkedin.com/in/anshu-sarkar/" target="blank"><img align="center" src="https://github.com/AnshuSarkarANX/AnshuSarkarANX/blob/main/Linked_in.gif" alt="gif" height="50" width="50" /></a>
 </p>
 
-##[Clone this project](https://github.com/AnshuSarkarANX/tindog.git)
+## [Clone this project](https://github.com/AnshuSarkarANX/tindog.git)
