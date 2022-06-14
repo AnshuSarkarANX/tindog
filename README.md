@@ -14,4 +14,5 @@
 <a href="https://twitter.com/anshu7anx" target="blank"><img align="center" src="https://github.com/AnshuSarkarANX/AnshuSarkarANX/blob/main/Twitter_logo.gif" alt="gif" height="50" width="50" /></a>
 <a href="https://linkedin.com/in/anshu-sarkar/" target="blank"><img align="center" src="https://github.com/AnshuSarkarANX/AnshuSarkarANX/blob/main/Linked_in.gif" alt="gif" height="50" width="50" /></a>
 </p>
-<a herf="https://github.com/AnshuSarkarANX/tindog.git"><h3 align="left" style="font-size:1.5rem;">Clone this project</h3></a>
+
+##[Clone this project](https://github.com/AnshuSarkarANX/tindog.git)
