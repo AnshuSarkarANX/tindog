@@ -3,7 +3,6 @@
 
 ### This is a [website](https://anshusarkaranx.github.io/tindog/) made for dogs to find their soulmates. This is basically Tinder for dogs.
 
-
 <p align="left">
 </p>
 
