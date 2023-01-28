@@ -2,9 +2,10 @@ body {
   font-family: "Montserrat";
   font-weight: 400;
   text-align: center;
-  width: auto;
 }
-
+section{
+  width:auto;
+}
 .pink-bg {
   background-color: #ff4c68;
 }
